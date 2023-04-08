@@ -1,0 +1,15 @@
+
+Crear una clase llamada TrianguloRectangulo
+
+1. Sobrecarga de constructores.
+2. Getters y setters. (base y altura)
+3. Métodos personalizados:
+	a) mostrarArea
+        b) mostrarPerimetro
+        c) mostrarTriangulo (se muestran la base y la altura)
+
+Esto mismo se puede aplicar para otras clases como:
+Trapecio
+Rombo
+Rectangulo
+
